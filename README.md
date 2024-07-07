@@ -2,6 +2,6 @@
 Button Ticket (discord.js)
 
 
-**This Bot Created By aresko#0756**
+**This Bot Created By smiiodonus**
 
-Please Don't Change The Credit. Thank You.
+Please Don't Change The Credits. Thank You.
